@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @etherkov
-- 👀 I’m interested in tech
+- 👀 I’m interested in tech, especially kubernetes. Just at the beggining. 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate some cooool project 
 - 📫 email: peter.kovac@gmail.com
